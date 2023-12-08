@@ -20,8 +20,8 @@ This is a HTML/CSS practice project.
 
 ### Screenshot
 
-![Desktop Image](./desktop-image.jpg)
-![Mobile Image](./mobile-image.jpg)
+![Desktop Image](./desktop-image.png)
+![Mobile Image](./mobile-image.png)
 
 ### Links
 
